@@ -9,3 +9,5 @@ Week-3 : Hyperparameter Tuning
 Week-4 : Implementation of Multilayer Neural Network using Keras and Data Augmentation on MNIST dataset.
 
 Week-5 : CNN Implementation on MNIST Dataset.
+
+Week-6 : CNN vs Transfer Learning Comparision on skin cancer dataset
