@@ -10,4 +10,6 @@ Week-4 : Implementation of Multilayer Neural Network using Keras and Data Augmen
 
 Week-5 : CNN Implementation on MNIST Dataset.
 
-Week-6 : CNN vs Transfer Learning Comparision on skin cancer dataset
+Week-6 : CNN vs Transfer Learning Comparision on MNIST dataset
+
+Week-7 : Transfer Learning on Diabetic Retinopathy dataset
