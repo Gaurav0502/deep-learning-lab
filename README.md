@@ -12,4 +12,4 @@ Week-5 : CNN Implementation on MNIST Dataset.
 
 Week-6 : Transfer Learning of pretrained models on MNIST dataset
 
-Week-7 : Transfer Learning on Diabetic Retinopathy dataset
+Week-7 : Transfer Learning on Plant Village dataset for Plant Disease Detection
