@@ -14,4 +14,6 @@ Week-6 : Transfer Learning of pretrained models on MNIST dataset
 
 Week-7 : Transfer Learning on Plant Village dataset for Plant Disease Detection
 
-Week-8 : Sentiment Analysis using RNN and LSTM
+Week-8 : Sentiment Analysis using Recurrent Neural Networks(RNN)
+
+Week-9 : Text Generation using LSTM
