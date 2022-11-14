@@ -17,3 +17,5 @@ Week-7 : Transfer Learning on Plant Village dataset for Plant Disease Detection
 Week-8 : Sentiment Analysis using Recurrent Neural Networks(RNN)
 
 Week-9 : Text Generation using LSTM
+
+Week-10 : Denoising and Dimensionality Reduction for Medical MNIST dataset using Autoencoders
